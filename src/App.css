@@ -1,0 +1,56 @@
+.CodeMirror {
+  /* height : 350px !important */
+  height: 100% ;
+  color: white !important;
+  font-size: 1rem;
+}
+
+.CodeMirror-gutter{
+  background: #1d1e21 !important;
+}
+
+
+.CodeMirror-scroll{
+  background: #1d1e21;
+}
+
+
+.CodeMirror-wrap{
+  height: 40vh !important;
+}
+
+
+.Editor-div{
+  flex-grow : 1;
+  flex-basic : 0;
+  display: flex;
+  flex-direction : column;
+  padding: 0.5rem;
+}
+
+.Editor-div.collapsed {
+  flex-grow: 0;                                                   
+}
+
+.btn {
+  background-color: #060606;
+  color: white;
+  border: none;
+  border-radius: .5rem;
+  padding: .5rem;
+  font-size: 1.3rem;
+  cursor: pointer;
+  margin-left: .5rem;
+  transition: all .2s ease-in-out;
+  cursor: pointer;
+}
+
+
+/* media query for smaller devices */
+
+@media (min-width: 345px) and (max-width: 900px) {
+  
+  .CodeMirror-wrap{
+    height: 35vh !important;
+  }
+}
