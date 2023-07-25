@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/React-Codepen-Clone/static/css/main.f7d0eb39.css",
-    "main.js": "/React-Codepen-Clone/static/js/main.cc97b8f8.js",
+    "main.css": "/React-Codepen-Clone/static/css/main.87b6c426.css",
+    "main.js": "/React-Codepen-Clone/static/js/main.c9e69257.js",
     "index.html": "/React-Codepen-Clone/index.html",
-    "main.f7d0eb39.css.map": "/React-Codepen-Clone/static/css/main.f7d0eb39.css.map",
-    "main.cc97b8f8.js.map": "/React-Codepen-Clone/static/js/main.cc97b8f8.js.map"
+    "main.87b6c426.css.map": "/React-Codepen-Clone/static/css/main.87b6c426.css.map",
+    "main.c9e69257.js.map": "/React-Codepen-Clone/static/js/main.c9e69257.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7d0eb39.css",
-    "static/js/main.cc97b8f8.js"
+    "static/css/main.87b6c426.css",
+    "static/js/main.c9e69257.js"
   ]
 }
