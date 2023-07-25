@@ -10,6 +10,7 @@ This project is a CodePen Clone built with React.js, Material-UI, and CodeMirror
 -   "Copy Code" button for easy code snippet sharing.
 -   Dark theme for a more comfortable coding experience.
 
+
 ## Technologies Used
 
 -   React.js
@@ -17,4 +18,4 @@ This project is a CodePen Clone built with React.js, Material-UI, and CodeMirror
 -   CodeMirror
 
 ## Sample Image
-![Screenshot 2023-07-22 213621](https://github.com/ajay-nishad25/React-Codepen-Clone/assets/92628257/534cb387-6b19-487f-8385-e113885b0dc8)
+![Screenshot 2023-07-22 213621](https://github.com/ajay-nishad25/React-Codepen-Clone/assets/92628257/8df9f35e-887c-400f-b6c9-002e4ac1a0f8)
